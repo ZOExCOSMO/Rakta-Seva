@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Rakta-Seva Connect</string>
+    <string name="tagline">Saving lives, one alert at a time</string>
+    <string name="sos_title">SOS Emergency</string>
+    <string name="donate_now">Accept &amp; Donate</string>
+    <string name="decline">Decline</string>
+    <string name="navigate">Navigate to Hospital</string>
+</resources>

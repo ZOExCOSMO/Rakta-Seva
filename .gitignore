@@ -1,0 +1,19 @@
+# Secrets
+local.properties
+google-services.json
+rakta-seva-backend/.env
+rakta-seva-backend/serviceAccountKey.json
+rakta-seva-backend/node_modules/
+
+# Android build artifacts
+*.iml
+.gradle/
+build/
+app/build/
+.idea/
+*.keystore
+*.jks
+
+# Misc
+.DS_Store
+Thumbs.db
